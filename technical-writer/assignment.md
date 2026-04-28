@@ -113,6 +113,7 @@ kubectl logs api-gateway-748c6678-x9z2m --namespace production
 2026-04-27 14:12:30 ERROR Failed to connect to billing-service: Connection timeout
 2026-04-27 14:12:30 WARN  Retrying connection in 5 seconds...
 ```
+
 ### Retrieve Logs Of All Containers Running Inside A Specified Pod
 
 Issue the command to retrieve the logs of all containers running inside of a specific pod:
